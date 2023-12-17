@@ -1,2 +1,2 @@
 # Aurum
-Side project to track its budget and finance.
+Side project for tracking budget and finances.
